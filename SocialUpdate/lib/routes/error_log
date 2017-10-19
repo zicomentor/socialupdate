@@ -1,0 +1,12 @@
+[20-Oct-2017 00:06:34 Asia/Hong_Kong] PHP Warning:  require_once(/home/u1650276/public_html/zico/b/lib/routes/../../vendor/autoload.php): failed to open stream: No such file or directory in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 5
+[20-Oct-2017 00:06:34 Asia/Hong_Kong] PHP Fatal error:  require_once(): Failed opening required '/home/u1650276/public_html/zico/b/lib/routes/../../vendor/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 5
+[20-Oct-2017 00:08:45 Asia/Hong_Kong] PHP Warning:  require_once(/home/u1650276/public_html/zico/b/lib/routes/../../vendor/autoload.php): failed to open stream: No such file or directory in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 5
+[20-Oct-2017 00:08:45 Asia/Hong_Kong] PHP Fatal error:  require_once(): Failed opening required '/home/u1650276/public_html/zico/b/lib/routes/../../vendor/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 5
+[20-Oct-2017 00:10:52 Asia/Hong_Kong] PHP Warning:  require_once(/home/u1650276/public_html/zico/b/lib/routes/../../vendor/autoload.php): failed to open stream: No such file or directory in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 5
+[20-Oct-2017 00:10:52 Asia/Hong_Kong] PHP Fatal error:  require_once(): Failed opening required '/home/u1650276/public_html/zico/b/lib/routes/../../vendor/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 5
+[20-Oct-2017 00:15:51 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Class 'controllers\SocialMediaPost' not found in /home/u1650276/public_html/zico/b/lib/routes/routes.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 8
+[20-Oct-2017 00:30:30 Asia/Hong_Kong] PHP Warning:  require_once(/home/u1650276/public_html/zico/b/lib/routes/../../vendor/autoload.php): failed to open stream: No such file or directory in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 5
+[20-Oct-2017 00:30:30 Asia/Hong_Kong] PHP Fatal error:  require_once(): Failed opening required '/home/u1650276/public_html/zico/b/lib/routes/../../vendor/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/u1650276/public_html/zico/b/lib/routes/routes.php on line 5
